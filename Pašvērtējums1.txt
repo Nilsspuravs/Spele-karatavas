@@ -1,0 +1,38 @@
+1.Ko es protu šobrīd izdarīt ar raspberry pi patstāvigi?
+    *protu flashot .img failus uz raspberry.
+    *protu kontrolet raspberry pi izmantojot datoru/putty
+    *protu ievietot kodu, lai viņu varētu pielietot
+    *protu palaist kodu
+    *protu izveidot lietotāju raspberry pi 
+    *protu vienkāršas funkcijas ar raspberry pi
+2.Ko es neprotu izdarīt ar raspberry pi šobrīd?
+    *neprotu izveidot aplikāciju kuru var palaist uz raspberry pi
+    *neprotu lietot arējas ierīces kā kameras, lai izmantotu tās datus savos kodos
+    *neprotu izmantot raspberry pi pinus kas domāti visādam iericēm
+3.Ar ko atšķiras raspberry pi programēšana no arduino programēšanas?
+    *raspberry pi mēs programmējam python 3 valodā.
+    *arduino mes programejam java script valodā.
+    *Raspberry's var darīt vairākas lietas vienlaikus.
+4.Funkciju skaidrojumi.
+    *liste ir vienkarsi saraksts
+    *input() ir funkcija, kas pieprasa userim ievadit kautkadus datus, visbiezak define ko vajag no usera lai turpinatu kodu.
+    *str - strings ir apzimejums burtiem/vardiem, bet ne skaitliem
+    *int - intiger ir veseli skaitli
+    *float - floats ir skaitlis kas var but gan vesals gan ar decimeldalu
+    *metožu definēšana - tu vari definet koda dalas kuras tu pectam varesi irmantot lai lupotu vai citam lietam, tas ir lietderigi ka dtev ir loti gars kods un lai datoram nebutu jalaiz viss kods tu vari isaugt noteiktas koda dalas, definesana ir piemeram def main()
+    *exit() funkcija ir domata lai apturetu kodu 
+    *if/elif/else ir funkcijas, kras izmanto lai veidotu vienkāršu loģiku. Ja tas ir tas, tad to. Ja tas nav tass, tad to.
+5.Mans scripts
+    *mans scripts ir programets python 3, tas ir speles karatavas kods, kur ir 1 līmenis
+    *es vēlejos izveidot spēles karātavas kodu.
+    *man sanaca izveidot kodu kur nav visas prasitas lietas,  ir spele karatavas, 1 limenis, random vardu banka.
+    *man nesanaca beigas izdomat ka ievietot līmeņu loģiku, punktu sistēmu.
+    *šis kods nav baigi nekam paredzēts, jo kodējot šo vienkāršo spēli mēs ieguvām zināšanas python programmēšanas valodā.
+6.Papildus funkcijas
+    *vareja pievienot vairakas valodas
+    *2 speletaju iespeja
+    *spēlētāju vārdu saglabāšana
+    *beigās uztaisīt viņu kā aplikāciju.
+7.Mana atzime
+    *es uzkatu kad esmu pelnijis 6 jo man ir spele. :)
+    *es iguldīju aptuveni 10 stundas, lai izveidotu spēli.
